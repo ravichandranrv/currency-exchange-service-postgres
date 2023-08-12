@@ -1,4 +1,4 @@
-# Currency Exchange Micro Service - Mysql
+# Currency Exchange Micro Service - Mysql new
 
 Run com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationMySql as a Java Application.
 
